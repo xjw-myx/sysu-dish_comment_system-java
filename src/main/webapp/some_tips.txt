@@ -1,0 +1,10 @@
+index，log_in和sign_up共同操纵、使用一个return_code，
+	==1，登录成功
+	==2，登录失败
+	==3，注册成功
+	==4，注册失败
+	
+comment_code，detail操纵
+	==1，评论成功
+	==2，未登录
+	==3，评论失败
